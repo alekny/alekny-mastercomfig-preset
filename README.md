@@ -2,7 +2,7 @@
 A custom preset for [mastercomfig](https://www.mastercomfig.com/)
 
 #### What is this?
-This custom preset i based on mastercomfig's "medium low"-preset, changes include:
+This custom preset is based on the mastercomfig "medium low"-preset, changes include:
 * Enabling shadows=medium (because they are still visible through walls in a lot if situations)
 * Setting textures and lod to high (just looks a lot better)
 * Enabling sprays
@@ -16,6 +16,7 @@ This custom preset i based on mastercomfig's "medium low"-preset, changes includ
 #### Install Instructions
 Download the latest [release](https://github.com/alekny/alekny-mastercomfig-preset/releases) and place "alekny-mastercomfig-preset.vpk" into your "tf/custom" folder together with any mastercomfig preset vpk.
 It will then override the built-in preset.
+NOTICE: This will override any existing preset!
 
 #### Mastercomfig Update Instructions
 Download the latest [release](https://github.com/alekny/alekny-mastercomfig-preset/releases) and replace it with your existing "alekny-mastercomfig-preset.vpk".
