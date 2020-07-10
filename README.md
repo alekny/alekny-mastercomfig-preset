@@ -15,7 +15,7 @@ This custom preset is based on the mastercomfig "medium low"-preset, changes inc
 
 #### Install Instructions
 Download the latest [release](https://github.com/alekny/alekny-mastercomfig-preset/releases) and place "alekny-mastercomfig-preset.vpk" into your "tf/custom" folder together with any mastercomfig preset vpk.
-It will then override the built-in preset.
+It will then override the built-in preset.  
 NOTICE: This will override any existing preset!
 
 #### Mastercomfig Update Instructions
