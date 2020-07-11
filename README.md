@@ -14,11 +14,10 @@ This custom preset is based on the mastercomfig "medium low"-preset, changes inc
 * Force mat_queue_mode 2
 
 #### Install Instructions
-Download the latest [release](https://github.com/alekny/alekny-mastercomfig-preset/releases) and place "alekny-mastercomfig-preset.vpk" into your "tf/custom" folder together with any mastercomfig preset vpk.
-It will then override the built-in preset.  
+Download the latest [release](https://github.com/alekny/alekny-mastercomfig-preset/releases) and place "alekny-mastercomfig-preset.vpk" into your "tf/custom" folder together with any mastercomfig preset vpk.  
 NOTICE: This will override any existing preset!
 
-#### Mastercomfig Update Instructions
+#### Preset Update Instructions
 Download the latest [release](https://github.com/alekny/alekny-mastercomfig-preset/releases) and replace it with your existing "alekny-mastercomfig-preset.vpk".
 I will design it to work with the latest stable version of mastercomfig. However it will very likely work with older versions as well.
 
