@@ -1,3 +1,5 @@
+[![Github All Releases](https://img.shields.io/github/downloads/alekny/alekny-mastercomfig-preset/total.svg)]()
+
 # alekny-mastercomfig-preset
 A custom preset for [mastercomfig](https://www.mastercomfig.com/)
 
