@@ -7,6 +7,7 @@ A custom preset for [mastercomfig](https://www.mastercomfig.com/)
 This custom preset is based on the mastercomfig "medium low"-preset, changes include:
 * Enabling shadows=medium (because they are still visible through walls in a lot if situations)
 * Setting textures and lod to high (just looks a lot better)
+* Enabling phong shading (make australiums look gold and shiny)
 * Enabling sprays
 * Setting Bandwidth to 8Mbps (make the most out of good connections)
 * Enabling Killstreak-Sheens
