@@ -28,3 +28,10 @@ I will design it to work with the latest stable version of mastercomfig. However
 Just update your mastercomfig vpk and leave "alekny-mastercomfig-preset.vpk" where it is.
 
 Enjoy :>
+
+
+
+
+
+[My Minisign Pubkey](https://pastebin.com/raw/ybSfH5yW) (FP: 9CBE19476D63187B)  
+[My PGP Pubkey](https://keys.openpgp.org/search?q=09D14F3B5113E420416B1BEDED669BE05AB3F186) (FP: 09D14F3B5113E420416B1BEDED669BE05AB3F186)  
