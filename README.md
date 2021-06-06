@@ -1,4 +1,4 @@
-[![Github All Releases](https://img.shields.io/github/downloads/alekny/alekny-mastercomfig-preset/total.svg)]()
+[![Github Newest Version](https://img.shields.io/github/v/release/alekny/alekny-mastercomfig-preset.svg)]() [![Github All Releases](https://img.shields.io/github/downloads/alekny/alekny-mastercomfig-preset/total.svg)]()
 
 # alekny-mastercomfig-preset
 A custom preset for [mastercomfig](https://www.mastercomfig.com/)
@@ -15,6 +15,9 @@ This custom preset is based on the mastercomfig "medium low"-preset, changes inc
 * Enabling HUD-Playermodel
 * Adding some cool net_graph settings when pressing and holding "tab"
 * Force mat_queue_mode 2
+
+#### Screenshots
+[Click Me!](https://imgur.com/a/G83cp8d)
 
 #### Install Instructions
 Download the latest [release](https://github.com/alekny/alekny-mastercomfig-preset/releases) and place "alekny-mastercomfig-preset.vpk" into your "tf/custom" folder together with any mastercomfig preset vpk.  
