@@ -9,7 +9,7 @@ This custom preset is based on the mastercomfig "medium low"-preset, changes inc
 * Setting textures and lod to high (just looks a lot better)
 * Enabling phong shading (make australiums look gold and shiny)
 * Enabling sprays
-* Setting Bandwidth to 8Mbps (make the most out of good connections)
+* Setting Bandwidth to 6Mbps (make the most out of good connections)
 * Enabling Killstreak-Sheens
 * Enabling outlines on objectives like the cart in pl
 * Enabling HUD-Playermodel
